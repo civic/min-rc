@@ -1,0 +1,12 @@
+# General
+startup_message off
+vbell           off
+msgminwait      0
+autodetach      on
+defscrollback   2000
+
+term xterm-256color
+escape ^jj
+hardstatus on
+hardstatus alwayslastline "%{.Wb} %-w%{.RW}%n %t%{-}%+w  %=[%Y-%m-%d %02c]"
+
