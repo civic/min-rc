@@ -1,0 +1,3 @@
+curl -o ~/.screenrc https://raw.githubusercontent.com/civic/min-rc/master/.screenrc 
+curl -o ~/.vimrc  https://raw.githubusercontent.com/civic/min-rc/master/.vimrc
+
